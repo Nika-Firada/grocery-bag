@@ -1,7 +1,7 @@
 {
   "name": "grocery-bag",
   "version": "0.1.0",
-  "homepage": "https://Nika-Firada.github.io//grocery-bag",
+  "homepage": "https://Nika-Firada.github.io/grocery-bag",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
